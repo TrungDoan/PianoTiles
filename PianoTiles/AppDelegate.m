@@ -2,7 +2,6 @@
 //  AppDelegate.m
 //  PianoTiles
 //
-//  Created by q q on 24/08/14.
 //  Copyright (c) 2014 Allanunu Studio. All rights reserved.
 //
 

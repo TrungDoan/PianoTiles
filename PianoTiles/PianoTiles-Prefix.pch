@@ -14,3 +14,7 @@
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
 #endif
+
+#define kTILE_SPRITE_NAME_PREFIX @"TileSpriteName"
+#define kNUMB_OF_TILES_PER_ROW 4
+#define kNUMB_OF_ROWS_PER_COLUMN 4
